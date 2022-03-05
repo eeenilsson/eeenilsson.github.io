@@ -1,9 +1,0 @@
-# Prolog
-
-Målsättningarna med denna bok är att:
-
-1. Ge en orienterade introduktion till respektive ämnesområde.
-2. Fungera som en uppslagsbok för kliniskt arbete.
-3. Ge hänvisningar till källor och fördjupningsmaterial.
-
-_Kursiverade_ ord förklaras i ordlistan (kapitel \@ref(ordlista)).
